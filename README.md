@@ -1,11 +1,11 @@
-# Coinpayments-API-PHP-
+# Coinpayments-API-PHP
 Point of Sale having PHP implementation of  Coinpayments API
-# Miranz-POS-Coinpayments\
+# Miranz-POS-Coinpayments
 
 We have developed a basic Point of Sale (POS)system by uisng CoinPayments API on PHP environemnt.
 
 # Getting Started
-Its a basic POS made for learning purpopse.
+It is a basic POS made for learning purpopse.
 
 ## Functionality
 
