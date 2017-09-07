@@ -25,7 +25,7 @@ Main Interface
 ## Dependencies
 You need to have IDE like Notepad++ or Sublime  and some local server to run this project.
 You need to have coinpayments login email & password.
-You must have merchantID and SecretKey which you will set on https://www.coinpayments.net/Account/Account Setting
+You must have merchantID and SecretKey which you will set on https://www.coinpayments.net/Account/Account%20Setting.
 You can test application by using LTCT coin which will be allocated to you for testing pruposes and LTCT has its own wallet.
 
 
